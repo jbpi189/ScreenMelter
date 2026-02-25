@@ -1,1 +1,1 @@
-ScreenMelter. To stop program press alt+f4
+ScreenMelter. To stop program press alt+f4.
